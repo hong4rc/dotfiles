@@ -1,4 +1,5 @@
 [
   "eslint",
-  "material-icon-theme"
+  "material-icon-theme",
+  "import-cost"
 ]
