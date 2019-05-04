@@ -1,0 +1,12 @@
+{
+  "terminal.integrated.fontFamily": "FuraCode Nerd Font",
+  "editor.fontFamily": "'FuraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback font'",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "explorer.confirmDelete": false,
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true
+}
