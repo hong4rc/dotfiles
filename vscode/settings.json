@@ -1,6 +1,6 @@
 {
   "terminal.integrated.fontFamily": "FuraCode Nerd Font",
-  "editor.fontFamily": "'FuraCode Nerd Font', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback font'",
+  "editor.fontFamily": "'FuraCode Nerd Font', 'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback font'",
   "workbench.iconTheme": "material-icon-theme",
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
@@ -8,5 +8,16 @@
   "files.trimTrailingWhitespace": true,
   "explorer.confirmDelete": false,
   "editor.fontSize": 16,
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "gitlens.settings.mode": "advanced",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "importCost.debug": true,
+  "importCost.timeout": 120000,
+  "workbench.startupEditor": "none",
+  "window.restoreWindows": "none",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorStyle": "line-thin",
+  "eslint.alwaysShowStatus": true
 }
