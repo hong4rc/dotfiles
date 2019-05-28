@@ -1,5 +1,6 @@
 [
   "eslint",
+  "gitlens",
   "material-icon-theme",
   "import-cost"
 ]
