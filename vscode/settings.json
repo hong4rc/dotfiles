@@ -1,6 +1,5 @@
 {
-  "terminal.integrated.fontFamily": "FuraCode Nerd Font",
-  "editor.fontFamily": "'FuraCode Nerd Font', 'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback font'",
+  "editor.fontFamily": "'Operator Mono Lig', 'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback font'",
   "workbench.iconTheme": "material-icon-theme",
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
@@ -19,5 +18,35 @@
   "javascript.updateImportsOnFileMove.enabled": "always",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.cursorStyle": "line-thin",
-  "eslint.alwaysShowStatus": true
+  "eslint.alwaysShowStatus": true,
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "workbench.list.openMode": "doubleClick",
+  "workbench.tree.indent": 4,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/node_modules": true
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [{
+      "scope": [
+        "comment",
+        "keyword.control"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }]
+  },
+  "editor.fontWeight": "500",
+  "git.autofetch": true,
+  "editor.suggest.hideStatusBar": false,
+  "files.defaultLanguage": "javascript",
+  "editor.suggestSelection": "first",
+  "sync.gist": "e3661c435c42f751e85c016724e146f2",
+  "lua.debug.settings.luaVersion": "5.1"
 }
